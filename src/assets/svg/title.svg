@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="300px" viewBox="-0.5 -0.5 474 163" style="max-width:100%;max-height:163px;"><defs>
+<linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="mx-gradient1"><stop offset="0%" style="stop-color: rgb(0, 255, 255); stop-opacity: 1;"/><stop offset="100%" style="stop-color: rgb(0, 255, 255); stop-opacity: 0.6;"/></linearGradient>
+<linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="mx-gradient2"><stop offset="0%" style="stop-color: rgb(0, 255, 255); stop-opacity: 0.7;"/><stop offset="100%" style="stop-color: rgb(0, 255, 255); stop-opacity: 0.3;"/></linearGradient>
+<linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="mx-gradient3"><stop offset="0%" style="stop-color: rgb(0, 255, 255); stop-opacity: 0.4;"/><stop offset="100%" style="stop-color: rgb(0, 255, 255); stop-opacity: 0;"/></linearGradient>
+</defs><g><path d="M 301 1 L 431 1 L 471 81 L 431 161 L 301 161 L 341 81 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="rotate(-180,386,81)" pointer-events="none"/><path d="M 151 1 L 281 1 L 321 81 L 281 161 L 151 161 L 191 81 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="rotate(-180,236,81)" pointer-events="none"/><path d="M 1 1 L 131 1 L 171 81 L 131 161 L 1 161 L 41 81 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="rotate(-180,86,81)" pointer-events="none"/>
+<path class="shadow" d="M 309 9 L 425 9 L 460 81.5 L 425 154 L 309 154 L 344 81.5 Z" fill="url(#mx-gradient1)" stroke="none" transform="rotate(-180,384.5,81.5)" pointer-events="none">
+    <animate attributeName="fill-opacity" attributeType="XML" values="0;0;1;1;1;1;0;0;0;" dur="8s" repeatCount="indefinite" />
+</path>
+<path class="shadow" d="M 159 9 L 274 9 L 309 81.5 L 274 154 L 159 154 L 194 81.5 Z" fill="url(#mx-gradient2)" stroke="none" transform="rotate(-180,234,81.5)" pointer-events="none">
+    <animate attributeName="fill-opacity" attributeType="XML" values="0;0;0;1;1;1;1;0;0;" dur="8s" repeatCount="indefinite" />
+</path>
+<path class="shadow" d="M 9 8 L 124 8 L 159 80.5 L 124 153 L 9 153 L 44 80.5 Z" fill="url(#mx-gradient3)" stroke="none" transform="rotate(-180,84,80.5)" pointer-events="none">
+    <animate attributeName="fill-opacity" attributeType="XML" values="0;0;0;0;1;1;1;1;0;" dur="8s" repeatCount="indefinite" />
+</path>
+</g></svg>

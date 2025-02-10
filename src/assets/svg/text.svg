@@ -1,0 +1,200 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="800px" viewBox="-0.5 50 800 850" style="max-width:100%;max-height:900px;">
+<defs><linearGradient x1="100%" y1="0%" x2="0%" y2="0%" id="mx-gradient-004f4f-1-00ffff-1-e-0"><stop offset="0%" style="stop-color: rgb(0, 255, 255); stop-opacity: 1;"/><stop offset="100%" style="stop-color: rgb(0, 79, 79); stop-opacity: 0.7;"/></linearGradient>
+<linearGradient x1="100%" y1="0%" x2="0%" y2="0%" id="mx-gradient-000000-1-004f4f-1-e-0"><stop offset="0%" style="stop-color: rgb(0, 79, 79); stop-opacity: 0.7;"/><stop offset="100%" style="stop-color: rgb(0, 0, 0); stop-opacity: 0.2;"/></linearGradient>
+</defs><g>
+<circle cx="185" cy="185" r="80" fill="none" stroke="#00ffff" stroke-opacity="0.3" pointer-events="none"/>
+<circle cx="185" cy="185" r="60" fill="none" stroke="#00ffff" stroke-opacity="0.3" pointer-events="none"/>
+<circle class="shadow" cx="185" cy="185" r="70" fill="none" stroke="#00ffff" stroke-width="10" pointer-events="none" stroke-dasharray="70" stroke-dashoffset="0" transform-origin="185 185">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="-360" dur="4s" repeatCount="indefinite" />
+</circle>
+<path d="M 267 175 L 605 175 L 709 315 L 709 315 L 579 315 L 319 315 L 267 315 L 230.6 256.2" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="5" stroke-miterlimit="10" pointer-events="none"/><path d="M 253 163 L 273 129 L 315 129 L 295 163 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="translate(284,0)scale(-1,1)translate(-284,0)" pointer-events="none"/><path d="M 305 163 L 325 129 L 367 129 L 347 163 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="translate(336,0)scale(-1,1)translate(-336,0)" pointer-events="none"/><path d="M 358 163 L 378 129 L 420 129 L 400 163 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="translate(389,0)scale(-1,1)translate(-389,0)" pointer-events="none"/><path d="M 420 163 L 430 145 L 601 145 L 591 163 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="translate(510.5,0)scale(-1,1)translate(-510.5,0)" pointer-events="none"/>
+<path class="shadow" d="M 260 159 L 276 133 L 308 133 L 292 159 Z" fill="#00ffff" stroke="none" transform="translate(284,0)scale(-1,1)translate(-284,0)" pointer-events="none">
+    <animate attributeName="fill-opacity" attributeType="XML" values="0; 0; 1; 1; 1; 1; 1; 1; 0" dur="8s" repeatCount="indefinite" />
+</path>
+<path class="shadow" d="M 312 159 L 328 133 L 360 133 L 344 159 Z" fill="url(#mx-gradient-004f4f-1-00ffff-1-e-0)" stroke="none" transform="translate(336,0)scale(-1,1)translate(-336,0)" pointer-events="none">
+    <animate attributeName="fill-opacity" attributeType="XML" values="0; 0; 0; 1; 1; 1; 1; 0; 0" dur="8s" repeatCount="indefinite" />
+</path>
+<path class="shadow" d="M 365 159 L 381 133 L 413 133 L 397 159 Z" fill="url(#mx-gradient-000000-1-004f4f-1-e-0)" stroke="none" transform="translate(389,0)scale(-1,1)translate(-389,0)" pointer-events="none">
+    <animate attributeName="fill-opacity" attributeType="XML" values="0; 0; 0; 0; 1; 1; 0; 0; 0" dur="8s" repeatCount="indefinite" />
+</path>
+<path d="M 149.95 310.19 C 138.77 307.06 128.07 302.44 118.12 296.47 L 140.19 259.69 C 146.85 263.69 154.03 266.78 161.52 268.87 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="rotate(15)" pointer-events="none" transform-origin="185 185">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="15; 15; 15; -15; -15; -15; 15" dur="8s" repeatCount="indefinite" />
+</path>
+<path d="M 149.95 310.19 C 138.77 307.06 128.07 302.44 118.12 296.47 L 140.19 259.69 C 146.85 263.69 154.03 266.78 161.52 268.87 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="rotate(15,185,185)" pointer-events="none"/>
+<path d="M 149.95 310.19 C 138.77 307.06 128.07 302.44 118.12 296.47 L 140.19 259.69 C 146.85 263.69 154.03 266.78 161.52 268.87 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="rotate(15)" pointer-events="none" transform-origin="185 185">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="15; 15; 15; 45; 45; 45; 15" dur="8s" repeatCount="indefinite" begin=".6s" />
+</path>
+
+<circle cx="185" cy="448.85" r="80" fill="none" stroke="#00ffff" stroke-opacity="0.3" pointer-events="none"/>
+<circle cx="185" cy="448.85" r="60" fill="none" stroke="#00ffff" stroke-opacity="0.3" pointer-events="none"/>
+<circle class="shadow" cx="185" cy="448.85" r="70" fill="none" stroke="#00ffff" stroke-width="10" pointer-events="none" stroke-dasharray="70" stroke-dashoffset="0" transform-origin="185 448.85" transform="rotate(45)">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="45" to="-315" dur="4s" repeatCount="indefinite" />
+</circle>
+<path d="M 267 438.85 L 605 438.85 L 709 578.85 L 709 578.85 L 579 578.85 L 319 578.85 L 267 578.85 L 230.6 520.05" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="5" stroke-miterlimit="10" pointer-events="none"/><path d="M 253 426.85 L 273 392.85 L 315 392.85 L 295 426.85 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="translate(284,0)scale(-1,1)translate(-284,0)" pointer-events="none"/><path d="M 305 426.85 L 325 392.85 L 367 392.85 L 347 426.85 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="translate(336,0)scale(-1,1)translate(-336,0)" pointer-events="none"/><path d="M 358 426.85 L 378 392.85 L 420 392.85 L 400 426.85 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="translate(389,0)scale(-1,1)translate(-389,0)" pointer-events="none"/><path d="M 420 426.85 L 430 408.85 L 601 408.85 L 591 426.85 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="translate(510.5,0)scale(-1,1)translate(-510.5,0)" pointer-events="none"/>
+<path class="shadow" d="M 260 422.85 L 276 396.85 L 308 396.85 L 292 422.85 Z" fill="#00ffff" stroke="none" transform="translate(284,0)scale(-1,1)translate(-284,0)" fill-opacity="0" pointer-events="none">
+    <animate attributeName="fill-opacity" attributeType="XML" values="0; 0; 1; 1; 1; 1; 1; 1; 0" dur="8s" repeatCount="indefinite" begin="1s" />
+</path>
+<path class="shadow" d="M 312 422.85 L 328 396.85 L 360 396.85 L 344 422.85 Z" fill="url(#mx-gradient-004f4f-1-00ffff-1-e-0)" stroke="none" transform="translate(336,0)scale(-1,1)translate(-336,0)" pointer-events="none" fill-opacity="0">
+    <animate attributeName="fill-opacity" attributeType="XML" values="0; 0; 0; 1; 1; 1; 1; 0; 0" dur="8s" repeatCount="indefinite" begin="1s" />
+</path>
+<path class="shadow" d="M 365 422.85 L 381 396.85 L 413 396.85 L 397 422.85 Z" fill="url(#mx-gradient-000000-1-004f4f-1-e-0)" stroke="none" transform="translate(389,0)scale(-1,1)translate(-389,0)" pointer-events="none" fill-opacity="0">
+    <animate attributeName="fill-opacity" attributeType="XML" values="0; 0; 0; 0; 1; 1; 0; 0; 0" dur="8s" repeatCount="indefinite" begin="1s" />
+</path> 
+<path d="M 149.95 574.04 C 138.77 570.91 128.07 566.29 118.12 560.32 L 140.19 523.54 C 146.85 527.54 154.03 530.63 161.52 532.72 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="rotate(15)" pointer-events="none" transform-origin="185 448.85">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="15; 15; 15; -15; -15; -15; 15" dur="8s" repeatCount="indefinite" begin="1s" />
+</path>
+<path d="M 149.95 574.04 C 138.77 570.91 128.07 566.29 118.12 560.32 L 140.19 523.54 C 146.85 527.54 154.03 530.63 161.52 532.72 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="rotate(15,185,448.85)" pointer-events="none"/>
+<path d="M 149.95 574.04 C 138.77 570.91 128.07 566.29 118.12 560.32 L 140.19 523.54 C 146.85 527.54 154.03 530.63 161.52 532.72 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="rotate(15)" pointer-events="none" transform-origin="185 448.85">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="15; 15; 15; 45; 45; 45; 15" dur="8s" repeatCount="indefinite" begin="1.6s" />
+</path>
+
+<circle cx="185" cy="712.7" r="80" fill="none" stroke="#00ffff" stroke-opacity="0.3" pointer-events="none"/>
+<circle cx="185" cy="712.7" r="60" fill="none" stroke="#00ffff" stroke-opacity="0.3" pointer-events="none"/>
+<circle class="shadow" cx="185" cy="712.7" r="70" fill="none" stroke="#00ffff" stroke-width="10" pointer-events="none"  stroke-dasharray="70" stroke-dashoffset="0" transform-origin="185 712.7" transform="rotate(90)">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="90" to="-270" dur="4s" repeatCount="indefinite" />
+</circle>
+<path d="M 267 702.7 L 605 702.7 L 709 842.7 L 709 842.7 L 579 842.7 L 319 842.7 L 267 842.7 L 230.6 783.9" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="5" stroke-miterlimit="10" pointer-events="none"/><path d="M 253 690.7 L 273 656.7 L 315 656.7 L 295 690.7 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="translate(284,0)scale(-1,1)translate(-284,0)" pointer-events="none"/><path d="M 305 690.7 L 325 656.7 L 367 656.7 L 347 690.7 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="translate(336,0)scale(-1,1)translate(-336,0)" pointer-events="none"/><path d="M 358 690.7 L 378 656.7 L 420 656.7 L 400 690.7 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="translate(389,0)scale(-1,1)translate(-389,0)" pointer-events="none"/><path d="M 420 690.7 L 430 672.7 L 601 672.7 L 591 690.7 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="translate(510.5,0)scale(-1,1)translate(-510.5,0)" pointer-events="none"/>
+<path class="shadow" d="M 260 686.7 L 276 660.7 L 308 660.7 L 292 686.7 Z" fill="#00ffff" stroke="none" transform="translate(284,0)scale(-1,1)translate(-284,0)" pointer-events="none" fill-opacity="0">
+    <animate attributeName="fill-opacity" attributeType="XML" values="0; 0; 1; 1; 1; 1; 1; 1; 0" dur="8s" repeatCount="indefinite" begin="2s" />
+</path>
+<path class="shadow" d="M 312 686.7 L 328 660.7 L 360 660.7 L 344 686.7 Z" fill="url(#mx-gradient-004f4f-1-00ffff-1-e-0)" stroke="none" transform="translate(336,0)scale(-1,1)translate(-336,0)" pointer-events="none" fill-opacity="0">
+    <animate attributeName="fill-opacity" attributeType="XML" values="0; 0; 0; 1; 1; 1; 1; 0; 0" dur="8s" repeatCount="indefinite" begin="2s" />
+</path>
+<path class="shadow" d="M 365 686.7 L 381 660.7 L 413 660.7 L 397 686.7 Z" fill="url(#mx-gradient-000000-1-004f4f-1-e-0)" stroke="none" transform="translate(389,0)scale(-1,1)translate(-389,0)" pointer-events="none" fill-opacity="0">
+    <animate attributeName="fill-opacity" attributeType="XML" values="0; 0; 0; 0; 1; 1; 0; 0; 0" dur="8s" repeatCount="indefinite" begin="2s" />
+</path>
+<path d="M 149.95 837.89 C 138.77 834.76 128.07 830.14 118.12 824.17 L 140.19 787.39 C 146.85 791.39 154.03 794.48 161.52 796.57 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="rotate(15)" pointer-events="none" transform-origin="185 712.7">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="15; 15; 15; -15; -15; -15; 15" dur="8s" repeatCount="indefinite" begin="2s" />
+</path>
+<path d="M 149.95 837.89 C 138.77 834.76 128.07 830.14 118.12 824.17 L 140.19 787.39 C 146.85 791.39 154.03 794.48 161.52 796.57 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="rotate(15,185,712.7)" pointer-events="none"/>
+<path d="M 149.95 837.89 C 138.77 834.76 128.07 830.14 118.12 824.17 L 140.19 787.39 C 146.85 791.39 154.03 794.48 161.52 796.57 Z" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-miterlimit="10" transform="rotate(15)" pointer-events="none" transform-origin="185 712.7">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="15; 15; 15; 45; 45; 45; 15" dur="8s" repeatCount="indefinite" begin="2.6s" />
+</path>
+</g>
+<g class="shadow" transform="scale(.16), translate(900 870)" fill-opacity="0.3"> 
+	<rect x="207.858" y="180.876" class="st0" width="19.688" height="19.672" fill="#00ffff"></rect>
+	<rect x="250.536" y="180.876" class="st0" width="19.687" height="19.672" fill="#00ffff"></rect>
+	<rect x="293.214" y="180.876" class="st0" width="19.687" height="19.672" fill="#00ffff"></rect>
+	<rect x="207.858" y="222.515" class="st0" width="19.688" height="19.687" fill="#00ffff"></rect>
+	<rect x="250.536" y="222.515" class="st0" width="19.687" height="19.687" fill="#00ffff"></rect>
+	<rect x="293.214" y="222.515" class="st0" width="19.687" height="19.687" fill="#00ffff"></rect>
+	<rect x="207.858" y="264.177" class="st0" width="19.688" height="19.672" fill="#00ffff"></rect>
+	<rect x="250.536" y="264.177" class="st0" width="19.687" height="19.672" fill="#00ffff"></rect>
+	<rect x="293.214" y="264.177" class="st0" width="19.687" height="19.672" fill="#00ffff"></rect>
+	<rect x="207.858" y="305.815" class="st0" width="19.688" height="19.687" fill="#00ffff"></rect>
+	<rect x="250.536" y="305.815" class="st0" width="19.687" height="19.687" fill="#00ffff"></rect>
+	<rect x="293.214" y="305.815" class="st0" width="19.687" height="19.687" fill="#00ffff"></rect>
+	<rect x="207.858" y="347.469" class="st0" width="19.688" height="19.68" fill="#00ffff"></rect>
+	<rect x="71.125" y="242.21" class="st0" width="19.672" height="19.68" fill="#00ffff"></rect>
+	<rect x="71.125" y="283.864" class="st0" width="19.672" height="19.68" fill="#00ffff"></rect>
+	<rect x="71.125" y="325.518" class="st0" width="19.672" height="19.679" fill="#00ffff"></rect>
+	<rect x="71.125" y="367.165" class="st0" width="19.672" height="19.68" fill="#00ffff"></rect>
+	<rect x="71.125" y="408.811" class="st0" width="19.672" height="19.68" fill="#00ffff"></rect>
+	<rect x="120.365" y="242.21" class="st0" width="19.672" height="19.68" fill="#00ffff"></rect>
+	<rect x="120.365" y="283.864" class="st0" width="19.672" height="19.68" fill="#00ffff"></rect>
+	<rect x="120.365" y="325.518" class="st0" width="19.672" height="19.679" fill="#00ffff"></rect>
+	<rect x="120.365" y="367.165" class="st0" width="19.672" height="19.68" fill="#00ffff"></rect>
+	<rect x="120.365" y="408.811" class="st0" width="19.672" height="19.68" fill="#00ffff"></rect>
+	<rect x="250.536" y="347.469" class="st0" width="19.687" height="19.68" fill="#00ffff"></rect>
+	<rect x="293.214" y="347.469" class="st0" width="19.687" height="19.68" fill="#00ffff"></rect>
+	<rect x="207.858" y="389.123" class="st0" width="19.688" height="19.68" fill="#00ffff"></rect>
+	<rect x="250.536" y="389.123" class="st0" width="19.687" height="19.68" fill="#00ffff"></rect>
+	<rect x="293.214" y="389.123" class="st0" width="19.687" height="19.68" fill="#00ffff"></rect>
+	<rect x="374.16" y="301.406" class="st0" width="65.639" height="11.45" fill="#00ffff"></rect>
+	<rect x="374.16" y="334.943" class="st0" width="65.639" height="11.443" fill="#00ffff"></rect>
+	<rect x="374.16" y="368.457" class="st0" width="65.639" height="11.451" fill="#00ffff"></rect>
+	<rect x="374.16" y="401.979" class="st0" width="65.639" height="11.451" fill="#00ffff"></rect>
+	<path class="st0" d="M485.75,475.54V252.367H358.838V134.2h-43.291V95.887h-13.124V62.716h-34.471V10.202h-15.307v52.514h-34.307
+		v33.171h-13.125V134.2h-43.291v61.737H26.264V475.54H0v26.258h32.827h135.657h13.124h157.542h13.124h126.913H512V475.54H485.75z
+		M168.484,482.103h-50.735v-35.002H96.687v35.002H45.952V215.631h122.533V482.103z M238.024,82.411h44.696v18.162h-44.696V82.411z
+		M224.914,115.574h70.945v25.196h-70.945V115.574z M339.151,258.93v223.172h-62.365v-48.126h-32.812v48.126h-62.365V202.507
+		v-48.613h30.166h97.21h30.166V258.93z M466.048,482.103h-46.356v-35.002h-21.062v35.002h-46.356V272.055h113.773V482.103z" fill="#00ffff"></path>
+
+    <text x="800" y="450" font-size="160" font-family="Monospace" fill="#00ffff">
+        Generating architectures
+    </text>
+    <text x="1100" y="650" font-size="90" font-family="Monospace" fill="#00ffff">
+    Nope. Would it be more correct to say that
+    </text>
+    <text x="1100" y="800" font-size="90" font-family="Monospace" fill="#00ffff">
+    we are creating commercial products to be
+    </text>
+    <text x="1100" y="950" font-size="90" font-family="Monospace" fill="#00ffff">
+    destroyed?
+    </text>
+
+    <animate attributeName="fill-opacity" attributeType="XML" values="0.3; 0.3; 1; 1; 0.3;" dur="6s" repeatCount="indefinite" />
+</g>
+<g class="shadow" transform="scale(.16), translate(900 2530)" fill-opacity="0.3">
+	<path class="st0" d="M482.429,142.558l-52.057-22.034c-4.959,4.637-12.082,8.869-22.244,10.566
+		c-1.718,0.286-3.848,0.496-6.293,0.656l57.715,24.429l-45.926,19.436c5.573,3.68,10.14,6.558,13.199,8.45
+		c0.475,0.287,0.88,0.628,1.32,0.943l39.382-16.67v70.347l-86.906,36.784c-0.349,1.369-0.642,2.493-0.81,3.01
+		c-2.906,9.225-11.314,15.42-20.896,15.42c-4.547,0-8.982-1.39-12.732-3.855l-86.62,36.664v-70.347l41.666-17.634
+		c-3.003-4.03-5.797-7.976-8.548-11.914l-40.269,17.04l-34.737-14.708c-2.78,3.926-5.643,7.864-8.674,11.873l36.26,15.344v70.347
+		l-82.59-34.954c-2.989,1.362-6.244,2.144-9.575,2.144c-9.435,0-17.676-6.006-20.72-14.973l-68.846-29.136v-0.461l-19.052-8.066
+		v-69.894l36.93,15.63c1.146-1.055,2.361-2.06,3.743-2.912c2.535-1.565,6.118-3.82,10.406-6.628l-44.5-18.835l63.035-26.678
+		c-5.503-0.188-8.422-0.552-10.203-0.852c-9.247-1.544-15.93-5.189-20.819-9.316l-60.047,25.414v108.291l19.052,8.066v158.762
+		L253.996,512l215.931-91.39V261.68l19.052-8.059V145.33L482.429,142.558z M245.259,485.001L63.527,408.088v-142.77l181.732,76.92
+		V485.001z M448.473,406.391l-188.911,79.958v-144.11l188.911-79.965V406.391z" fill="#00ffff"></path>
+	<path class="st0" d="M106.931,112.751c12.236,2.032,61.527-0.572,98.003-2.898c-37.447,43.418-92.199,79.042-109.994,90.034
+		c-3.709,2.298-1.921,5.462,0.349,6.181c2.277,0.712,39.808,17.222,39.808,17.222c2.193,0.95,3.806,2.884,4.358,5.21
+		c0,0,9.407,41.037,10.462,44.375c1.054,3.338,4.77,2.758,6.397,1.082c59.767-61.499,86.466-121.161,97.333-152.442
+		c0.782,0.056,1.564,0.119,2.36,0.119c0.79,0,1.565-0.063,2.347-0.119c10.866,31.281,37.572,90.943,97.332,152.442
+		c1.634,1.676,5.343,2.256,6.397-1.082c1.055-3.338,10.462-44.375,10.462-44.375c0.552-2.326,2.165-4.26,4.358-5.21
+		c0,0,37.531-16.51,39.808-17.222c2.27-0.72,4.058-3.883,0.349-6.181c-17.808-10.992-72.652-46.686-110.092-90.16
+		c35.848,2.361,85.649,5.098,98.101,3.024c20.008-3.338,21.119-22.229,18.891-30.008c-1.599-5.573-20.128-52.889-37.782-73.351
+		c-7.025-8.15-21.119-13.339-31.12-5.559c-19.582,15.232-50.15,40.199-66.639,53.719c-4.19-10.294-13.143-18.074-32.412-18.074
+		c-19.624,0-28.57,8.052-32.67,18.619c-14.868-12.466-45.842-38.271-66.395-54.264c-10-7.78-24.094-2.591-31.12,5.559
+		C108.168,29.854,89.64,77.169,88.04,82.742C85.813,90.522,86.923,109.413,106.931,112.751z" fill="#00ffff"></path>
+
+    <text x="800" y="450" font-size="160" font-family="Monospace" fill="#00ffff">
+        Generating items
+    </text>
+    <text x="1100" y="650" font-size="90" font-family="Monospace" fill="#00ffff">
+    When the boundary between the inorganic
+    </text>
+    <text x="1100" y="800" font-size="90" font-family="Monospace" fill="#00ffff">
+    organic is gone,
+    </text>
+    <text x="1100" y="950" font-size="90" font-family="Monospace" fill="#00ffff">
+    shall we discuss about love with Mr. beer mug?
+    </text>
+
+    <animate attributeName="fill-opacity" attributeType="XML" values="0.3; 0.3; 1; 1; 0.3;" dur="6s" repeatCount="indefinite" begin="1s" />
+</g>
+<g class="shadow" transform="scale(.16), translate(900 4180)" fill-opacity="0.3">
+	<path class="st0" d="M510.168,392.022l-45.594-57.326V93.611c0-11.662-9.458-21.12-21.12-21.12H68.546
+		c-11.662,0-21.115,9.458-21.115,21.12v241.085L1.837,392.022C0.648,393.517,0,395.367,0,397.287v25.373
+		c0,9.311,7.542,16.849,16.849,16.849h478.302c9.31,0,16.849-7.538,16.849-16.849v-25.373
+		C512,395.367,511.36,393.517,510.168,392.022z M77.226,102.291h357.548v202.606H77.226V102.291z M304.121,419.47h-96.242v-25.478
+		h96.242V419.47z" fill="#00ffff"></path>
+	<path class="st0" d="M204.404,167.431c-0.117,0-0.225,0.036-0.31,0.096l-57.525,39.266c-0.152,0.112-0.242,0.277-0.242,0.467
+		v10.556c0,0.189,0.09,0.363,0.242,0.458l57.525,39.266c0.086,0.069,0.194,0.104,0.31,0.104c0.087,0,0.177-0.026,0.255-0.069
+		c0.181-0.096,0.298-0.286,0.298-0.493v-16.824c0-0.172-0.09-0.354-0.242-0.458l-39.94-27.267l39.94-27.258
+		c0.152-0.112,0.242-0.277,0.242-0.467v-16.815c0-0.207-0.117-0.406-0.298-0.492C204.581,167.449,204.49,167.431,204.404,167.431z" style="fill: rgb(0, 255, 255);"></path>
+	<path class="st0" d="M306.07,167.527c-0.091-0.06-0.195-0.096-0.312-0.096c-0.09,0-0.177,0.018-0.259,0.07
+		c-0.177,0.086-0.294,0.285-0.294,0.492v16.824c0,0.182,0.091,0.355,0.242,0.458l39.94,27.258l-39.94,27.267
+		c-0.151,0.104-0.242,0.285-0.242,0.466v16.815c0,0.207,0.117,0.397,0.294,0.493c0.082,0.043,0.169,0.069,0.259,0.069
+		c0.117,0,0.22-0.034,0.312-0.104l57.52-39.266c0.164-0.095,0.25-0.268,0.25-0.458v-10.556c0-0.19-0.086-0.355-0.25-0.467
+		L306.07,167.527z" fill="#00ffff"></path>
+	<path class="st0" d="M281.375,158.224h-16.08c-0.237,0-0.449,0.147-0.522,0.372L228.26,264.473
+		c-0.056,0.164-0.026,0.354,0.074,0.492c0.109,0.147,0.277,0.242,0.454,0.242h16.08c0.238,0,0.45-0.156,0.523-0.38l36.508-105.859
+		c0.061-0.172,0.03-0.363-0.069-0.51C281.721,158.311,281.553,158.224,281.375,158.224z" fill="#00ffff"></path>
+
+    <text x="800" y="450" font-size="160" font-family="Monospace" fill="#00ffff">
+        Generating systems
+    </text>
+    <text x="1100" y="650" font-size="90" font-family="Monospace" fill="#00ffff">
+    If parenting and playing with dolls
+    </text>
+    <text x="1100" y="800" font-size="90" font-family="Monospace" fill="#00ffff">
+    are synonymous, then the program is
+    </text>
+    <text x="1100" y="950" font-size="90" font-family="Monospace" fill="#00ffff">
+    the same as playing house.
+    </text>
+
+    <animate attributeName="fill-opacity" attributeType="XML" values="0.3; 0.3; 1; 1; 0.3;" dur="6s" repeatCount="indefinite" begin="2s" />
+</g>
+
+</svg>

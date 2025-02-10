@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="600px" height="155" viewBox="-1.5 -1.5 530 210" style="max-width:100%;padding-bottom:0;">
+<clipPath id="myClip" clipPathUnits="objectsBoundingBox">
+    <rect x="35.5" y="21" width="462" height="160"/>
+</clipPath>
+<linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient"><stop offset="10%" style="stop-color: rgb(0, 255, 255); stop-opacity: .7;"/><stop offset="50%" style="stop-color: rgb(0, 0, 0); stop-opacity: 0;"/></linearGradient>
+<defs/>
+<g><path d="M 34.13 21 L 497.88 21 M 497.88 181 M 34.13 181 L 34.13 21" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" transform="translate(0,101)scale(1,-1)translate(0,-101)" pointer-events="none"/><path d="M 34.13 21 L 497.88 21 M 34.13 26 L 497.88 26 M 34.13 31 L 497.88 31 M 34.13 36 L 497.88 36 M 34.13 41 L 497.88 41 M 34.13 46 L 497.88 46 M 34.13 51 L 497.88 51 M 34.13 56 L 497.88 56 M 34.13 61 L 497.88 61 M 34.13 66 L 497.88 66 M 34.13 71 L 497.88 71 M 34.13 76 L 497.88 76 M 34.13 81 L 497.88 81 M 34.13 86 L 497.88 86 M 34.13 91 L 497.88 91 M 34.13 96 L 497.88 96 M 34.13 101 L 497.88 101 M 34.13 106 L 497.88 106 M 34.13 111 L 497.88 111 M 34.13 116 L 497.88 116 M 34.13 121 L 497.88 121 M 34.13 126 L 497.88 126 M 34.13 131 L 497.88 131 M 34.13 136 L 497.88 136 M 34.13 141 L 497.88 141 M 34.13 146 L 497.88 146 M 34.13 151 L 497.88 151 M 34.13 156 L 497.88 156 M 34.13 161 L 497.88 161 M 34.13 166 L 497.88 166 M 34.13 171 L 497.88 171 M 34.13 176 L 497.88 176 M 34.13 181 L 497.88 181" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="0.4" stroke-miterlimit="10" pointer-events="none" overflow="hidden"/>
+
+<rect x="1" y="1" width="530" height="200" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-dasharray="12 12" pointer-events="none"/><path d="M 1 1 L 31 1 M 31 31 M 1 31 L 1 1" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" pointer-events="none"/><path d="M 501 1 L 531 1 M 531 31 M 501 31 L 501 1" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" transform="rotate(90,516,16)" pointer-events="none"/><path d="M 501.01 171 L 531.01 171 M 531.01 201 M 501.01 201 L 501.01 171" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" transform="rotate(-180,516.01,186)" pointer-events="none"/><path d="M 1 171 L 31 171 M 31 201 M 1 201 L 1 171" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="3" stroke-linecap="square" stroke-miterlimit="10" transform="rotate(-90,16,186)" pointer-events="none"/>
+<path  d="M 0 ,200 v -100, 0 q 150,50 300,0 t 300,0 q 150,50 300,0 t 300,0 v 200, -100 Z" fill="url(#mx-gradient)" stroke="#00ffff" stroke-width="3" clip-path="url(#myClip)">
+    <animate attributeName="d" attributeType="XML" from="M 0 ,200 v -100, 0 q 150,50 300,0 t 300,0 q 150,50 300,0 t 300,0 v 200, -100 Z" to="M -600 ,200 v -100, 0 q 150,50 300,0 t 300,0 q 150,50 300,0 t 300,0 v 200, -100 Z" dur="4s" repeatCount="indefinite" />
+</path> 
+<path d="M 0 ,200 v -100, 0 q 150,50 300,0 t 300,0 q 150,50 300,0 t 300,0 v 200, -100 Z" fill="url(#mx-gradient)" stroke="#00ffff" stroke-width="3" clip-path="url(#myClip)">
+    <animate attributeName="d" attributeType="XML" from="M 0 ,200 v -100, 0 q 150,50 300,0 t 300,0 q 150,50 300,0 t 300,0 v 200, -100 Z" to="M -600 ,200 v -100, 0 q 150,50 300,0 t 300,0 q 150,50 300,0 t 300,0 v 200, -100 Z" dur="2s" repeatCount="indefinite" />
+</path>
+<path d="M 0 ,200 v -100, 0 q 150,50 300,0 t 300,0 q 150,50 300,0 t 300,0 v 200, -100 Z" fill="url(#mx-gradient)" stroke="#00ffff" stroke-width="3" clip-path="url(#myClip)">
+    <animate attributeName="d" attributeType="XML" from="M 0 ,200 v -100, 0 q 150,50 300,0 t 300,0 q 150,50 300,0 t 300,0 v 200, -100 Z" to="M -600 ,200 v -100, 0 q 150,50 300,0 t 300,0 q 150,50 300,0 t 300,0 v 200, -100 Z" dur="6s" repeatCount="indefinite" />
+</path>
+<use xlink:href="#wave" x="-30" y="10" />
+<use xlink:href="#wave" x="-60" />
+</g></svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="532px" viewBox="-0.5 -0.5 532 535" style="max-width:100%;max-height:535px;"><defs/><g><path d="M 362.9 168.7 L 453.27 77.47" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="265.63" cy="265.61" rx="160.76320675382695" ry="160.76320675382695" fill-opacity="0.3" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="2" pointer-events="none"/><ellipse cx="265.63" cy="265.5" rx="184.00916080853207" ry="184.00916080853207" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="2" pointer-events="none"/><ellipse cx="265.63" cy="266.37" rx="137.51725269912183" ry="138.17019665812583" fill-opacity="0.3" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="2" pointer-events="none"/><path d="M 168.36 364.04 L 77.99 452.75" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/><path d="M 265.63 57.18 L 265.63 151.56" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/><path d="M 185.31 185.1 L 135.52 135.38" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/><path d="M 378.95 265.42 L 472.89 264.43" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/><path d="M 345.95 345.74 L 395.74 395.61" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/><path d="M 265.63 471.69 L 265.63 379.28" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/><path d="M 152.31 265.42 L 58.37 264.43" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+                <path class="circle" transform-origin="center" d="M 461 265.61 C 461 344.24 413.78 415.17 341.24 445.51 C 268.69 475.85 185.03 459.65 129.06 404.43 L 135.9 397.49 C 189.08 449.95 268.56 465.34 337.47 436.52 C 406.39 407.7 451.25 340.31 451.25 265.61 Z" fill="none" stroke="#00ffff" stroke-width="2" stroke-miterlimit="10" pointer-events="none">
+                    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite" />
+                </path>
+                <path class="shadow" transform-origin="center" d="M 71.02 263.8 C 71.88 198.33 105.54 137.66 160.64 102.28 L 165.91 110.49 C 113.56 144.1 81.58 201.73 80.77 263.93 Z" fill="#00ffff" stroke="none" pointer-events="none">
+                    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite" />
+                </path>
+                <path class="shadow" transform-origin="center" d="M 339.16 85.62 C 370.26 98.2 397.58 118.59 418.48 144.82 L 410.86 150.9 C 391 125.98 365.04 106.61 335.5 94.65 Z" fill="#00ffff" stroke="none" pointer-events="none">
+                    <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0; 140; 160; 180; 340; 360" dur="3.5s" repeatCount="indefinite" />
+                </path>
+                <path class="shadow" transform-origin="center" d="M 140.09 149.8 C 188.87 96.71 265.71 79.92 332.18 107.83 L 328.21 117.29 C 265.72 91.06 193.5 106.84 147.64 156.74 Z" fill="none" stroke="#00ffff" stroke-width="2" stroke-miterlimit="10" pointer-events="none">
+                    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="-360" dur="3s" repeatCount="indefinite" />
+                </path>
+                <path class="shadow" transform-origin="center" d="M 420.89 194.71 C 432.74 220.38 438.04 248.6 436.31 276.82 L 426.07 276.19 C 427.69 249.66 422.71 223.14 411.58 199.01 Z" fill="#00ffff" stroke="none" pointer-events="none">
+                    <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0; 160; 180; 340; 350; 360" dur="1.5s" repeatCount="indefinite" />
+                </path>
+                <path class="shadow" transform-origin="center" d="M 128.43 367.67 C 100.15 329.66 88.91 281.63 97.39 235.02 L 107.48 236.86 C 99.52 280.67 110.08 325.82 136.66 361.55 Z" fill="#00ffff" stroke="none" pointer-events="none">
+                    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                </path>
+                <path class="shadow" transform-origin="center" d="M 391.37 381.79 C 361.3 414.21 319.85 433.72 275.7 436.22 L 275.12 425.98 C 316.61 423.62 355.59 405.28 383.85 374.81 Z" fill="none" stroke="#00ffff" stroke-width="2" stroke-miterlimit="10" pointer-events="none">
+                    <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="0; -200; -180; -380; -370; -360" dur="2s" repeatCount="indefinite" />
+                </path>
+                <path class="shadow" transform-origin="center" d="M 119.14 263.68 C 120.2 183.53 185.47 119.11 265.63 119.11 L 265.63 127.9 C 190.28 127.9 128.92 188.46 127.93 263.8 Z" fill="none" stroke="#00ffff" stroke-width="2" stroke-miterlimit="10" pointer-events="none">
+                    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="-360" dur="3.5s" repeatCount="indefinite" />
+                </path>
+                <path class="shadow" transform-origin="center" d="M 412 265.5 C 412 346.41 346.41 412 265.5 412 L 265.5 403.21 C 341.56 403.21 403.21 341.56 403.21 265.5 Z" fill="#00ffff" stroke="none" pointer-events="none">
+                    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="3s" repeatCount="indefinite" />
+                </path>
+                <path class="shadow" transform-origin="center" d="M 483.13 265.5 C 483.13 323.18 460.21 378.51 419.43 419.3 L 411.74 411.61 C 450.49 372.86 472.25 320.3 472.25 265.5 Z" fill="#00ffff" stroke="none" pointer-events="none">
+                    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite" />
+                </path>
+                <path class="shadow" transform-origin="center" d="M 264.33 482.99 C 207.4 482.42 152.96 459.55 112.7 419.3 L 120.39 411.61 C 158.64 449.85 210.35 471.57 264.43 472.11 Z" fill="#00ffff" stroke="none" pointer-events="none">
+                    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite" />
+                </path>
+                <path class="shadow" transform-origin="center" d="M 49.01 264.17 C 49.6 206.22 73.29 150.9 114.83 110.48 L 122.41 118.28 C 82.95 156.67 60.44 209.23 59.89 264.28 Z" fill="#00ffff" stroke="none" pointer-events="none">
+                    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite" />
+                </path>
+                <path class="shadow" transform-origin="center" d="M 266.5 48 C 324.18 48 379.51 70.92 420.3 111.7 L 412.61 119.39 C 373.86 80.64 321.3 58.88 266.5 58.88 Z" fill="#00ffff" stroke="none" pointer-events="none">
+                    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite" />
+                </path>
+            </g></svg>

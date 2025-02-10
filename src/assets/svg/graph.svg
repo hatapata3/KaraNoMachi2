@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="620px" viewBox="-0.5 -0.5 620 710" style="max-width:100%;max-height:710px;"><defs>
+<linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="mx-gradient-00ffff-1-000000-1-e-0">
+<stop offset="0%" style="stop-color: rgb(0, 255, 255); stop-opacity: 1;"/>
+<stop offset="70%" style="stop-color: rgb(0, 0, 0); stop-opacity: 0.3;"/>
+</linearGradient>
+</defs>
+<g>
+
+<circle cx="146.24" cy="138.24" r="100" fill="none" stroke="#00ffff" stroke-opacity="0.3" pointer-events="none"/>
+<circle cx="146.24" cy="138.24" r="110" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="15" stroke-dasharray="15 15" transform-origin="146.24 138.24" pointer-events="none">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate"  values="0; 0; -72; -144; -216; -288; -360; -360; -360; -360; -360" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="r" attributeType="XML" values="110; 126; 126; 126; 126; 126; 126; 110; 110; 110; 110" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="146.24" cy="138.24" r="110" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="15" stroke-dasharray="15 15" transform-origin="146.24 138.24" transform="rotate(7)" pointer-events="none">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="7; 7; 80; 152; 224; 296; 368; 368; 368; 368; 368" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle cx="146.24" cy="138.24" r="120" fill="none" stroke="#00ffff" stroke-opacity="0.3" transform-origin="146.24 138.24" pointer-events="none">
+    <animateTransform attributeName="transform" attributeType="XML" type="scale"
+    values="1; 1.14; 1.14; 1.14; 1.14; 1.14; 1.14; 1; 1; 1; 1" dur="10s" repeatCount="indefinite" />
+</circle>
+<circle class="shadow" cx="146.24" cy="138.24" r="84" fill="none" stroke="#00ffff" stroke-width="22" stroke-dasharray="527" stroke-dashoffset="100" transform-origin="146.24 138.24" transform="rotate(-90)" pointer-events="none">
+    <animate attributeName="stroke-dashoffset" attributeType="XML" values="0; 50; 400; 100; 500; 527; 50; 0; 0; 0; 0" dur="10" repeatCount="indefinite" />
+</circle>
+<circle class="shadow" cx="146.24" cy="138.24" r="60" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="4" stroke-dasharray="4 4" pointer-events="none">
+    <animate attributeName="stroke-opacity" attributeType="XML" values="0.3; 0.3; 1; 0; 1; 0; 1; 0.3; 0.3; 0.3; 0.3" dur="10s" repeatCount="indefinite" />
+</circle>
+
+<circle cx="471.24" cy="138.24" r="120" fill="none" stroke="#00ffff" stroke-opacity="0.3" transform-origin="471.24 138.24" pointer-events="none">
+    <animateTransform attributeName="transform" attributeType="XML" type="scale"
+    values="1; 1.14; 1.14; 1.14; 1.14; 1.14; 1.14; 1; 1; 1; 1" dur="10s" repeatCount="indefinite" begin="2.5s" />
+</circle>
+<circle cx="471.24" cy="138.24" r="110" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="15" stroke-dasharray="15 15" transform-origin="471.24 138.24" pointer-events="none">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate"  values="0; 0; 72; 144; 216; 288; 360; 360; 360; 360; 360" dur="10s" repeatCount="indefinite" begin="2.5s" />
+    <animate attributeName="r" attributeType="XML" values="110; 126; 126; 126; 126; 126; 126; 110; 110; 110; 110" dur="10s" repeatCount="indefinite" begin="2.5s" />
+</circle>
+<circle cx="471.24" cy="138.24" r="110" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="15" stroke-dasharray="15 15" transform-origin="471.24 138.24" transform="rotate(8)" pointer-events="none">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="8; 8; -64; -136; -205; -280; -352; -352; -352; -352; -352" dur="10s" repeatCount="indefinite" begin="2.5s" />
+</circle>
+<circle cx="471.24" cy="138.24" r="100" fill="none" stroke="#00ffff" stroke-opacity="0.3" pointer-events="none"/>
+<circle class="shadow" cx="471.24" cy="138.24" r="84" fill="none" stroke="#00ffff" stroke-width="22" stroke-dasharray="527" stroke-dashoffset="527" transform-origin="471.24 138.24" transform="rotate(-90)" pointer-events="none">
+    <animate attributeName="stroke-dashoffset" attributeType="XML" values="527; 400; 50; 100; 0; 80; 25; 150; 5; 100; 0; 40; 3; 200; 500; 527; 527; 527; 527;527; 527; 527; 527" dur="10" repeatCount="indefinite" begin="2.5s" />
+</circle>
+<circle class="shadow" cx="471.24" cy="138.24" r="60" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="4" stroke-dasharray="4 4" pointer-events="none">
+    <animate attributeName="stroke-opacity" attributeType="XML" values="0.3; 0.3; 1; 0; 1; 0; 1; 0.3; 0.3; 0.3; 0.3" dur="10s" repeatCount="indefinite" begin="2.5s" />
+</circle>
+
+<circle cx="146.24" cy="488" r="100" fill="none" stroke="#00ffff" stroke-opacity="0.3" pointer-events="none"/>
+<circle cx="146.24" cy="488" r="110" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="15" stroke-dasharray="15 15" transform-origin="146.24 488" pointer-events="none">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate"  values="0; 0; -72; -144; -216; -288; -360; -360; -360; -360; -360" dur="10s" repeatCount="indefinite" begin="5s" />
+    <animate attributeName="r" attributeType="XML" values="110; 126; 126; 126; 126; 126; 126; 110; 110; 110; 110" dur="10s" repeatCount="indefinite" begin="5s" />
+</circle>
+<circle cx="146.24" cy="488" r="110" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="15" stroke-dasharray="15 15" transform-origin="146.24 488" transform="rotate(7)" pointer-events="none">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" values="7; 7; 80; 152; 224; 296; 368; 368; 368; 368; 368" dur="10s" repeatCount="indefinite" begin="5s" />
+</circle>
+<circle cx="146.24" cy="488" r="120" fill="none" stroke="#00ffff" stroke-opacity="0.3" transform-origin="146.24 488" pointer-events="none">
+    <animateTransform attributeName="transform" attributeType="XML" type="scale"
+    values="1; 1.14; 1.14; 1.14; 1.14; 1.14; 1.14; 1; 1; 1; 1" dur="10s" repeatCount="indefinite" begin="5s" />
+</circle>
+<circle class="shadow" cx="146.24" cy="488" r="84" fill="none" stroke="#00ffff" stroke-width="22" stroke-dasharray="90" stroke-dashoffset="0" transform-origin="146.24 488" transform="rotate(-90)" pointer-events="none">
+    <animate attributeName="stroke-dashoffset" attributeType="XML" values="0; 50; 400; 100; 500; 527; 50; 0; 0; 0; 0" dur="10" repeatCount="indefinite" begin="5s" />
+</circle>
+<circle class="shadow" cx="146.24" cy="488" r="60" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="4" stroke-dasharray="4 4" pointer-events="none">
+    <animate attributeName="stroke-opacity" attributeType="XML" values="0.3; 0.3; 1; 0; 1; 0; 1; 0.3; 0.3; 0.3; 0.3" dur="10s" repeatCount="indefinite" begin="5s" />
+</circle>
+
+
+<circle cx="471.24" cy="488" r="100" fill="none" stroke="#00ffff" stroke-opacity="0.3" pointer-events="none"/>
+<circle cx="471.24" cy="488" r="126" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="15" stroke-dasharray="15 15" transform-origin="471.24 488" pointer-events="none">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate"  values="0; 360; 450; 360; 0; -90; 0" dur="20s" repeatCount="indefinite" />
+</circle>
+<circle cx="471.24" cy="488" r="110" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="15" stroke-dasharray="15 15" transform-origin="471.24 488" pointer-events="none">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate"  values="0; -360; -450; -360; 0; 90; 0" dur="20s" repeatCount="indefinite" />
+</circle>
+
+<circle cx="471.24" cy="488" r="135" fill="none" stroke="#00ffff" stroke-opacity="0.3"  pointer-events="none" />
+<circle cx="471.24" cy="488" r="140" fill="none" stroke="#00ffff" stroke-opacity="0.3" stroke-width="4" stroke-dasharray="4 4" pointer-events="none">
+    <animate attributeName="stroke-opacity" attributeType="XML" values=" 0.3; 0.5; 0; 0.5; 0.3" dur="10s" repeatCount="indefinite" />
+</circle>
+
+<circle class="shadow" cx="471.24" cy="410" r="4" fill="#00ffff" stroke="none" opacity="0" stroke-width="4" stroke-dasharray="4 4" pointer-events="none">
+    <animate attributeName="opacity" attributeType="XML" values="1; 0.2; 0" dur="1s" repeatCount="indefinite" />
+</circle>
+<circle class="shadow" cx="440" cy="450" r="4" fill="#00ffff" stroke="none" opacity="0" stroke-width="4" stroke-dasharray="4 4" pointer-events="none">
+    <animate attributeName="opacity" attributeType="XML" values="1; 0.2; 0" dur="1s" begin=".45" repeatCount="indefinite" />
+</circle>
+<circle class="shadow" cx="390" cy="470" r="4" fill="#00ffff" stroke="none" opacity="0" stroke-width="4" stroke-dasharray="4 4" pointer-events="none">
+    <animate attributeName="opacity" attributeType="XML" values="1; 0.2; 0" dur="1s" begin=".86" repeatCount="indefinite" />
+</circle>
+<circle class="shadow" cx="440" cy="530" r="4" fill="#00ffff" stroke="none" opacity="0" stroke-width="4" stroke-dasharray="4 4" pointer-events="none">
+    <animate attributeName="opacity" attributeType="XML" values="1; 0.2; 0" dur="1s" begin=".6" repeatCount="indefinite" />
+</circle>
+<circle class="shadow" cx="460" cy="515" r="4" fill="#00ffff" stroke="none" opacity="0" stroke-width="4" stroke-dasharray="4 4" pointer-events="none">
+    <animate attributeName="opacity" attributeType="XML" values="1; 0.2; 0" dur="1s" begin=".7" repeatCount="indefinite" />
+</circle>
+<circle class="shadow" cx="510" cy="560" r="4" fill="#00ffff" stroke="none" opacity="0" stroke-width="4" stroke-dasharray="4 4" pointer-events="none">
+    <animate attributeName="opacity" attributeType="XML" values="1; 0.2; 0" dur="1s" begin=".32" repeatCount="indefinite" />
+</circle>
+<circle class="shadow" cx="555" cy="520" r="4" fill="#00ffff" stroke="none" opacity="0" stroke-width="4" stroke-dasharray="4 4" pointer-events="none">
+    <animate attributeName="opacity" attributeType="XML" values="1; 0.2; 0" dur="1s" begin=".76" repeatCount="indefinite" />
+</circle>
+<circle class="shadow" cx="510" cy="450" r="4" fill="#00ffff" stroke="none" opacity="0" stroke-width="4" stroke-dasharray="4 4" pointer-events="none">
+    <animate attributeName="opacity" attributeType="XML" values="1; 0.2; 0" dur="1s" begin=".52" repeatCount="indefinite" />
+</circle>
+
+<path class="shadow" d="M 471.24 388 C 488.69 388 505.83 392.56 520.97 401.24 L 471.24 488 Z" fill-opacity="0.5" fill="url(#mx-gradient-00ffff-1-000000-1-e-0)" stroke="none" pointer-events="none" transform-origin="471.24 488">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="0" to="-360" dur="4s" repeatCount="indefinite" />
+</path>
+<path class="shadow" d="M 471.24 388 C 488.69 388 505.83 392.56 520.97 401.24 L 471.24 488 Z" fill-opacity="0.5" fill="url(#mx-gradient-00ffff-1-000000-1-e-0)" stroke="none" transform="rotate(90)" pointer-events="none" transform-origin="471.24 488">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="90" to="-270" dur="4s" repeatCount="indefinite" />
+</path>
+<path class="shadow" d="M 471.24 388 C 488.69 388 505.83 392.56 520.97 401.24 L 471.24 488 Z" fill-opacity="0.5" fill="url(#mx-gradient-00ffff-1-000000-1-e-0)" stroke="none" transform="rotate(-180)" pointer-events="none" transform-origin="471.24 488">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="-180" to="-540" dur="4s" repeatCount="indefinite" />
+</path>
+<path class="shadow" d="M 471.24 388 C 488.69 388 505.83 392.56 520.97 401.24 L 471.24 488 Z" fill-opacity="0.5" fill="url(#mx-gradient-00ffff-1-000000-1-e-0)" stroke="none" transform="rotate(-90)" pointer-events="none" transform-origin="471.24 488">
+    <animateTransform attributeName="transform" attributeType="XML" type="rotate" from="-90" to="-450" dur="4s" repeatCount="indefinite" />
+</path>
+
+</g></svg>

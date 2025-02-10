@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@/*": ["src/*"]
+        },
+        "types": [
+            "vite-plugin-glsl/ext",
+            "vite-plugin-svgr/client"
+        ]
+    }
+}
