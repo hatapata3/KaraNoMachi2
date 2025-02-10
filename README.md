@@ -1,6 +1,6 @@
 # KaraNoMachi
 
-https://github.com/hatapata3/karanomachi/tree/main/src/img/artboad.gif
+https://github.com/user-attachments/assets/92860830-8ced-404c-9bc9-f769e605e746
 
 ## Overview
 KaraNoMachi is a first-person game style portfolio website.
